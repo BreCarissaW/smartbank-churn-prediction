@@ -4,9 +4,6 @@ This project focuses on predicting customer churn using supervised machine learn
 
 The objective is to identify customers at risk of churning and to evaluate models that balance predictive performance with interpretability for business decision-making.
 
-## App Demo Video
-[Download the demo video](media/churn-app-demo-video_compressed.mp4)
-
 ## Project Context
 
 This project was completed through the **Lloyds Banking Group Forage job simulation**, which mirrors common industry tasks such as:
