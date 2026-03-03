@@ -6,7 +6,7 @@ The objective is to identify customers at risk of churning and to evaluate model
 
 ## Live Demo
 
-**[View the app here!](https://smartbank-churn-prediction.streamlit.app/)** - Upload your customer data CSVs and get instant churn predictions.
+**[View the app here!](https://smartbank-churn-prediction.streamlit.app/)**
 
 ## Project Context
 
@@ -15,13 +15,9 @@ This project was completed through the **Lloyds Banking Group Forage job simulat
 - Feature engineering and selection
 - Model training and evaluation
 - Interpreting results in a business context
+- Deploying a machine learning model in a user-friendly Streamlit application
 
 ## Data
 
 The dataset used in this project was provided as part of the Lloyds Banking Group Forage simulation.  
 The data may have been **anonymized or modified** for instructional purposes and is **not included** in this repository.
-
-## How to Run
-
-This repository is intended for review of methodology, modeling choices, and interpretation rather than exact numerical replication.
-
